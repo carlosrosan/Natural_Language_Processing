@@ -3,6 +3,25 @@ Este repositorio contiene el material de clases (presentaciones, ejercicios y no
 
 ## Contenido
 
+
+### [Desafío 1]
+* Vectorización de texto y modelo de clasificación Naïve Bayes con el dataset 20 newsgroups
+* Sklearn, TfidfVectorizer, fetch_20newsgroups
+
+### [Desafío 2]
+* Custom embedddings con Gensim utilizando libros de www.gutenberg.org
+* Word2Vec
+
+### [Desafío 3]
+* Modelo de lenguaje con tokenización por palabras utilizando libros de www.gutenberg.org
+* Consideraremos que cada secuencia para este dataset es un verso.
+
+### [Desafío 4]
+* Modelo entrenado para generar texto tipo Chatbot Q&A
+* Keras latten, LSTM, SimpleRNN
+
+------------------------------------------------------------------------
+
 ### [Clase 1](clase_1/README.md) 
 * Introducción a NLP (Natural Language Processing)
 * Vectorización de documentos
